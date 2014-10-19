@@ -1,0 +1,10 @@
+*.suo
+*.sdf
+*.vcxproj.user
+*.opensdf
+
+src/Debug/
+src/LittleUnity/Debug/
+src/UnityCore/Debug/
+src/UnityEngine/bin/
+src/UnityEngine/obj/
