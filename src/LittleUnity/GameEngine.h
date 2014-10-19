@@ -12,6 +12,9 @@ public:
 
 private:
 	bool initDevice();
+	bool compileShaders();
+	bool createShaders();
+	bool setInputLayout();
 	void cleanupDevice();
 };
 
